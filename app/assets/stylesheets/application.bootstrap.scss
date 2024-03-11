@@ -1,0 +1,17 @@
+@import 'bootstrap/scss/bootstrap';
+@import 'bootstrap-icons/font/bootstrap-icons';
+
+
+body {
+  background-color: blue;
+  color: lightgray;
+ }
+
+ .page-title {
+  font-size: 64px;
+  color: blue;
+ }
+
+ #imageCarousel {
+  width: 600px;
+ } 
